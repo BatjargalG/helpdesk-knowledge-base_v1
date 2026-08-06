@@ -1,3 +1,11 @@
-# Windows Troubleshooting
+# Windows Support
 
-This folder contains Windows troubleshooting guides.
+This section contains Windows troubleshooting articles.
+
+## Articles
+
+- Windows Update
+- Slow Computer
+- Blue Screen
+- Login Problems
+- Disk Space
